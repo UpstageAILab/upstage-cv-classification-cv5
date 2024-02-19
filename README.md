@@ -26,9 +26,6 @@ Vscode, RTX 3090 server
 
 ### Directory
 
-- _Insert your directory structure_
-
-e.g.
 ```
 ├── code
     ├── EDA
@@ -55,43 +52,34 @@ e.g.
 
 본 대회는 결과물 csv 확장자 파일을 제출하게 됩니다.
 
+### EDA & Augmentaion
+![image](https://github.com/UpstageAILab/upstage-cv-classification-cv5/assets/96022213/42d2efe5-a159-412e-9d2f-fc0af56da09c)
+![image](https://github.com/UpstageAILab/upstage-cv-classification-cv5/assets/96022213/11816180-a75c-49c6-b0f0-37bf804f8968)
+
+### Augmentation
+![image](https://github.com/UpstageAILab/upstage-cv-classification-cv5/assets/96022213/962f162a-a445-4b60-9a1f-de6d2757db3b)
 
 
-### EDA
-
-
-
-### Data Processing
-
-- _Describe data processing process (e.g. Data Labeling, Data Cleaning..)_
 
 ## 4. Modeling
 
 ### Model descrition
 
-- _Write model information and why your select this model_
+
 
 ### Modeling Process
 
-- _Write model train and test process with capture_
+
 
 ## 5. Result
 
 ### Leader Board
 
-- _Insert Leader Board Capture_
-- _Write rank and score_
+
 
 ### Presentation
 
-- _Insert your presentaion file(pdf) link_
-
-## etc
-
-### Meeting Log
-
-- _Insert your meeting log link like Notion or Google Docs_
 
 ### Reference
 
-- _Insert related reference_
+
