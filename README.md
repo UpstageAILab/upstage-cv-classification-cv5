@@ -280,4 +280,7 @@ https://docs.google.com/presentation/d/1BEArU4iON6gzoHsSwt1XaK0Dg4vGRUF3cxYcQWTc
 ### Reference
 https://paperswithcode.com/  
 https://github.com/qubvel/ttach?tab=readme-ov-file  
-https://github.com/sail-sg/metaformer
+https://github.com/sail-sg/metaformer  
+Focal Loss: https://github.com/mathiaszinnen/focal_loss_torch  
+CAFormer: https://arxiv.org/abs/2210.13452  
+RotNet: https://github.com/d4nst/RotNet  
