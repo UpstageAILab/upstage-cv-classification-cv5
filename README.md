@@ -47,19 +47,15 @@ Vscode, RTX 3090 server
 
 이번 대회에 사용될 데이터는 총 17개 종의 문서로 분류되어 있습니다. 1570장의 학습 이미지를 통해 3140장의 평가 이미지를 예측하게 됩니다. 특히, 현업에서 사용하는 실 데이터를 기반으로 대회를 제작하여 대회와 현업의 갭을 최대한 줄였습니다. 또한 현업에서 생길 수 있는 여러 문서 상태에 대한 이미지를 구축하였습니다.
 
-![image](https://github.com/UpstageAILab/upstage-cv-classification-cv5/assets/96022213/8a55ea9c-8165-4521-831c-f97ec5621729)
-
 이번 대회를 통해서 문서 타입 데이터셋을 이용해 이미지 분류를 모델을 구축합니다. 주어진 문서 이미지를 입력 받아 17개의 클래스 중 정답을 예측하게 됩니다. computer vision에서 중요한 backbone 모델들을 실제 활용해보고, 좋은 성능을 가지는 모델을 개발할 수 있습니다. 그 밖에 학습했던 여러 테크닉들을 적용해 볼 수 있습니다.
 
 본 대회는 결과물 csv 확장자 파일을 제출하게 됩니다.
 
 ### EDA & Augmentaion
-![image](https://github.com/UpstageAILab/upstage-cv-classification-cv5/assets/96022213/42d2efe5-a159-412e-9d2f-fc0af56da09c)
-![image](https://github.com/UpstageAILab/upstage-cv-classification-cv5/assets/96022213/11816180-a75c-49c6-b0f0-37bf804f8968)
+![스크린샷 2024-02-21 151743](https://github.com/UpstageAILab/upstage-cv-classification-cv5/assets/42354230/1a27b195-36bb-4402-acd1-8a7aa145f0b5)
 
 ### Augmentation
-![image](https://github.com/UpstageAILab/upstage-cv-classification-cv5/assets/96022213/962f162a-a445-4b60-9a1f-de6d2757db3b)
-
+![스크린샷 2024-02-21 151956](https://github.com/UpstageAILab/upstage-cv-classification-cv5/assets/42354230/9ccc0776-d786-4a31-aabc-09f0ff8e50a7)
 
 
 ## 4. Modeling
@@ -275,7 +271,7 @@ https://github.com/qubvel/ttach/blob/master/ttach/wrappers.py #L52
 
 
 ### Presentation
-https://docs.google.com/presentation/d/1BEArU4iON6gzoHsSwt1XaK0Dg4vGRUF3cxYcQWTcDvI/edit#slide=id.g269915ddf82_4_15
+ppt 폴더참조
 
 ### Reference
 https://paperswithcode.com/  
