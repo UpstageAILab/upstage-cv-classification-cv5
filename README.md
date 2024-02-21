@@ -8,6 +8,8 @@
 |                            팀장                            |                            팀원                             |                            팀원                             |                            팀원                             |                            팀원                             |                            팀원                             |
 
 ## 1. Competitions Info
+$\color{red}{\textsf{해당 대회의 Train/Test 데이터는 저작권 문제로 공개가 불가능해 비슷한 이미지로 대체되어있음을 알려드립니다!}}$
+
 ### Overview
 ![image](https://github.com/UpstageAILab/upstage-cv-classification-cv5/assets/96022213/4e685524-05b9-4f48-b980-d24460bb43cb)
 
@@ -280,3 +282,5 @@ https://github.com/sail-sg/metaformer
 Focal Loss: https://github.com/mathiaszinnen/focal_loss_torch  
 CAFormer: https://arxiv.org/abs/2210.13452  
 RotNet: https://github.com/d4nst/RotNet  
+
+대회 데이터 참고용 링크: https://www.content.upstage.ai/ocr-pack/insurance
